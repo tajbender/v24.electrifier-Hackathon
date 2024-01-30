@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "electrifier (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "electrifier (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
